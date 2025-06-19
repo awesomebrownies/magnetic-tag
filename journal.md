@@ -1,3 +1,10 @@
+---
+title: "Steam Valve"
+author: "Evan Brown"
+description: "Geared threshold levers w/ load dials & mechanical tally; steampunk themed logistics instrument "
+created_at: "2025-06-18"
+---
+
 ## June 18: The Steam Valve
 
 Log-01: 1 hour drawing, 3 hours research
