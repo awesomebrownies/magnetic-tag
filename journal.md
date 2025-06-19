@@ -1,24 +1,15 @@
-## June 18: A start
+## June 18: The Steam Valve
 
-Log-01: 1 hour drawing, 2 hours brainstorming
+Log-01: 1 hour drawing, 3 hours research
 
-I've had this idea in my head about creating a organization system using low power gadgets, that can light up to show where specific things are.
+The steam valve is about creating an items logistics system using low power gadgets, that can light up to show where specific things are. It solves the problem of organization nightmare. This handy little tally keeps track of when you don't put back items. It also works as a quick way to find things, since all items are logged into a database.
 
-The problem: I don't know where a tool/item is
-Solution: Type it into a database and send out the RF signal to light up the tag.
+Let's talk items! To keep with the steampunk vibe, I'll be using mechanical gears, stylized 3d parts, springs, and more!
+* Gear assembly + load gauge
+  *  Motor & motor controller slave device
+* Computing
+  * Master microcontroller (wall power & shelf control)
 
-I've also completed many sketches attempting to theorize fun build templates.
-
-Components:
-
-- Charging module
-- Overcharge & Battery Overuse Protection
-- GPIO Interrupt RF Module
-
-This build will feature a heavily steampunk inspired style! I'm planning to build it all without the gauge, but if I feel like adding it later, then I might. (Right now its just too large in scope)
-
-Log-02: 1 hour research
-
-To minimize cost spending, components have been changed. The flip clocks I've seen in multiple videos showcasing old clock systems seemed really interesting to me, and I want to replicate something similar with gear systems. This will be relatively cheap to setup. The setup consists of a motor, motor controller, an LED, 3d printed parts, hall effect sensor, two buttons, and a microcontroller. Money can be saved by pairing up motors to one single microcontroller. The current plan is manufacture 10 of these tally instruments, and use 3 microcontrollers. I can also use the gearing from the motor to turn the gauge, so that's a double win!
+I have a lot of different little shelves, so the plan is to create 10 of these, and 3 microcontrollers for the three sections of my room. I'll also code up a database system for logging where objects are!
 
 ![20250618_212230](https://github.com/user-attachments/assets/6d6c0aa3-07fe-4c75-ae9c-617cdc330946)
